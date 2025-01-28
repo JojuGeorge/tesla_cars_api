@@ -360,6 +360,76 @@
                     "top_speed": "250 mph"
                 }
             ]
+        },
+        {
+            "id": "Tesla_CyberTruck_2023",
+            "make": "Tesla",
+            "model": "CyberTruck",
+            "year": 2024,
+            "price": "$200,000",
+            "range": "620 miles",
+            "top_speed": "250 mph",
+            "acceleration": {
+                "value": "1.9s",
+                "unit": "0-60 mph"
+            },
+            "drive": "AWD",
+            "battery": "200 kWh",
+            "seating": 4,
+            "description": "The Tesla Cybertruck redefines speed and luxury, delivering record-breaking acceleration and range.",
+            "available_colors": [
+                "Thunder Grey Premium",
+                "Obsidian Black Metallic",
+                "Sterling Silver Metallic",
+                "Electric Blue Premium",
+                "Fusion Red"
+            ],
+            "key_features": [
+                {
+                    "title": "Removable Glass Roof",
+                    "description": "Enjoy an open-top experience with a removable glass roof."
+                },
+                {
+                    "title": "Torque Vectoring",
+                    "description": "All-wheel drive with torque vectoring for maximum traction and control."
+                },
+                {
+                    "title": "Unmatched Acceleration",
+                    "description": "Record-breaking acceleration of under 2 seconds for a thrilling driving experience."
+                },
+                {
+                    "title": "Enhanced Aerodynamics",
+                    "description": "Aerodynamic design for maximum speed and efficiency."
+                },
+                {
+                    "title": "State-of-the-Art Infotainment",
+                    "description": "Cutting-edge infotainment system for a modern and connected driving experience."
+                }
+            ],
+            "variants": [
+                {
+                    "id": "Tesla_Roadster_2023_Base_Model",
+                    "name": "Roadster Base Model",
+                    "range": "620 miles",
+                    "price": "$200,000",
+                    "acceleration": {
+                        "value": "1.9s",
+                        "unit": "0-60 mph"
+                    },
+                    "top_speed": "250 mph"
+                },
+                {
+                    "id": "Tesla_Roadster_2023_Founders_Series",
+                    "name": "Roadster Founders Series",
+                    "range": "620 miles",
+                    "price": "$250,000",
+                    "acceleration": {
+                        "value": "1.9s",
+                        "unit": "0-60 mph"
+                    },
+                    "top_speed": "250 mph"
+                }
+            ]
         }
     ]
 }
